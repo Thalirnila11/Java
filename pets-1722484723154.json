@@ -1,0 +1,14 @@
+[
+  {
+    "color": "black",
+    "type": "cat",
+    "size": "large",
+    "name": "snowbell"
+  },
+  {
+    "color": "brown",
+    "type": "dog",
+    "size": "large",
+    "name": "scooby"
+  }
+]
